@@ -82,12 +82,12 @@ void main() {
   // Starting balance = 1290 RWF, Bus fare = 229 RWF, Discount = 19%
 
   // EXAMPLE: create a card and test the setter
-  BusCard card = BusCard('Moumen', 1290);
+  BusCard card = BusCard('Moumen hassan', 1290);
   card.owner = 'Al';
   card.showInfo();
 
   // TODO 5
-  card.owner = 'Moumen Full Name';
+  card.owner = 'Moumen hassan';
   card.showInfo();
 
   // TODO 6
@@ -100,7 +100,7 @@ void main() {
   card.showInfo();
 
   // TODO 8
-  StudentCard student = StudentCard('Moumen Full Name', 1290, 19);
+  StudentCard student = StudentCard('Moumen hassan', 1290, 19);
 
   // TODO 9
   student.pay(229);
