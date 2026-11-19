@@ -83,3 +83,20 @@ Real output:
 Was I right?
 
 Yes, my prediction was right.
+
+
+
+
+real output:
+Error: name too short
+Owner: Moumen | Balance: 1290 RWF
+Owner: Moumen hassan  | Balance: 1290 RWF
+Error: top-up must be 500 to 50000 RWF
+Topped up 2000 RWF
+Paid 229 RWF
+Paid 229 RWF
+Owner: Moumen hassan  | Balance: 2832 RWF
+Student discount: 433 RWF
+Paid 186 RWF
+Owner: Moumen Full Name | Balance: 1104 RWF
+Student card: 19% off
